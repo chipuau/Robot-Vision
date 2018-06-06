@@ -1,0 +1,13 @@
+Name  : Megan Chipman
+PID   : m3700960
+Course: CAP 4453 - Robot Vision
+Date  : February 3, 2018
+
+To compile sobel.c, use gcc sobel.c and ./a.out. The .pgm file face05.pgm 
+is written into the code. 
+
+The output files are labeled NOThreshold, LOThreshold, and HIThreshold. 
+NOThreshold is the magnitude image, LOThreshold is the resulting image with a
+threshold of 24, and HIThreshold is the resulting image with a threshold of 48.
+The threshold values were chosen as multiples of 4 to ensure that the 1/4 factor
+could be removed. 
