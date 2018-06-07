@@ -7,9 +7,5 @@ is written into the code, and I have included it in the .zip file. If testing
 using Ubuntu, you may need to type "gcc canny.c -lm" instead. 
 
 The program will output three files-- CannyMagnitude.pgm, CannyPeaks.pgm, and
-CannyThresholds.pgm. I had some difficulty getting the exact output specified
-in the assignment specifications, but I adjusted the peak and percent values
-to get it as close as possible. 
-
-
+CannyThresholds.pgm. 
 
