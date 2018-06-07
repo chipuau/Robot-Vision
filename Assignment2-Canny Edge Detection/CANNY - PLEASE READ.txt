@@ -1,5 +1,4 @@
 Name	: Megan Chipman
-PID	: m3700960
 Course	: CAP 4453 - Robot Vision
 Date	: March 26, 2018
 
